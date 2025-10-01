@@ -57,4 +57,4 @@ Only includes Facebook users who enabled location sharing (sampling bias).
 ### **The Takeaway**
 Facebook turns anonymous location data into answers when relief agencies desperately need severity, location, and timeline.
 
-****Read the full deep dive: [https://lnkd.in/dvTGpi6k]
+Read the full deep dive: [https://lnkd.in/dvTGpi6k]
