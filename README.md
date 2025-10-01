@@ -14,7 +14,7 @@ Each chapter in `chapters/` covers:
 - [ ] Chapter 2 – ...
 
 ## 🐇 Rabbit Holes
-- [How Facebook Location Data Model Migration Patterns](./Chapter 1/rabbit-hole-How-Facebook-Maps-Human-Migration.md)
+- [How Facebook Location Data Model Migration Patterns](./chapter1/rabbit-hole-How-Facebook-Maps-Human-Migration.md)
 - ...
 
 ## Code Implementation
