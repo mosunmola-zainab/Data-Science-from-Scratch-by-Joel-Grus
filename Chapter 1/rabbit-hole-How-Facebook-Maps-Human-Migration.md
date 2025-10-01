@@ -46,9 +46,13 @@ Traditional methods (surveys, shelter counts) are slow and incomplete.
 - Fills gaps official numbers miss 
 - Detects displacement outside shelters
 
-**Privacy:** Data is anonymized, aggregated to city-level only, and excludes groups under 10 people.
+### **Privacy:** 
 
-**Caveat:** Only includes Facebook users who enabled location sharing (sampling bias).
+Data is anonymized, aggregated to city-level only, and excludes groups under 10 people.
+
+### **Caveat:** 
+
+Only includes Facebook users who enabled location sharing (sampling bias).
 
 ### **The Takeaway**
 Facebook turns anonymous location data into answers when relief agencies desperately need severity, location, and timeline.
