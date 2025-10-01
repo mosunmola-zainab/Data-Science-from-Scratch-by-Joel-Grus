@@ -17,7 +17,7 @@ When thousands of users make similar moves, Facebook maps migration flows at pop
 
 ### **Real Use Case: Disaster Displacement**
 
-### **Found a paper: "Measuring Long-Term Displacement using Facebook Data"**
+**Found a paper:** "Measuring Long-Term Displacement using Facebook Data"
 
 **The problem:** After disasters, relief agencies can't quickly answer: How many displaced? Where did they go? When will they return?
 
