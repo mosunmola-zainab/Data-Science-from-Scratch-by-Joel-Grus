@@ -3,13 +3,22 @@ A repo documenting my Rabbit Holes and Code Implementation through this book
 
 ---
 
-## 📖 Chapters Covered
-
 Each chapter in `chapters/` covers:
 
 - Rabbit holes
 - Code implementation
 - Notes and Exercises
+
+## 📖 Chapters Covered
+- [x] Chapter 1 – Introduction to Data Science
+- [ ] Chapter 2 – ...
+
+## 🐇 Rabbit Holes
+- How Facebook Location Data Model Migration Patterns
+- ...
+
+## Code Implementation
+- ...
 
 ---
 
